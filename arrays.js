@@ -63,7 +63,7 @@ const tweets = [
   //let fakeAuthorIndex = authors.findIndex(fakeAuthor => fakeAuthor.year > fakeAuthor.passed);
   //fakeAuthorIndex = authors.splice(fakeAuthorIndex, 1);
   //console.log('Fake Author: ', fakeAuthorIndex);
-  //Svaret: INGEN. Nice try ;)
+  //Svaret: INGEN.???
 
 
   // Använd Array.prototype.map
